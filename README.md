@@ -4,15 +4,15 @@
 
 流式布局，支持 `Adapter`,`notifyData` 和 `gravity属性`
 
-![left](https://github.com/wangruning/MyFlowLayout/image/left.png)
+![left](https://github.com/wangruning/MyFlowLayout/blob/master/image/left.png)
 
 - `app:gravity="right"`
 
-![right](https://github.com/wangruning/MyFlowLayout/image/right.png)
+![right](https://github.com/wangruning/MyFlowLayout/blob/master/image/right.png)
 
 - `app:gravity="center"`
 
-![center](https://github.com/wangruning/MyFlowLayout/image/center.png)
+![center](https://github.com/wangruning/MyFlowLayout/blob/master/image/center.png)
 
 ## 使用
 
@@ -60,4 +60,4 @@ textArray[5] = "Hi Tom,How are you?";
 tagAdapter.notifyDataSetChanged();
 ```
 
-![setAdapter](https://github.com/wangruning/MyFlowLayout/image/notify_data.png)
+![setAdapter](https://github.com/wangruning/MyFlowLayout/blob/master/image/notify_data.png)
