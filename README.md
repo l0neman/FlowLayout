@@ -1,7 +1,5 @@
 # FlowLayout
 
----
-
 流式布局，支持 `Adapter`,`notifyData` 和 `gravity属性`
 
 ![left](https://github.com/wangruning/MyFlowLayout/blob/master/image/left.png)
