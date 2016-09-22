@@ -8,13 +8,4 @@
             <enum name="right" value="1" />
         </attr>
     </declare-styleable>
-
-    <!--形状遮罩-->
-    <declare-styleable name="MaskedImageView">
-        <attr name="center" format="boolean" />
-        <attr name="mask_mode">
-            <enum name="shader" value="0" />
-            <enum name="xfermode" value="1" />
-        </attr>
-    </declare-styleable>
 </resources>
