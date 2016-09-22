@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.runing.view.flowlayout.FlowLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/fl_content"
+    android:layout_width="300dp"
+    app:gravity="right"
+    android:background="@color/colorPrimary"
+    android:layout_height="wrap_content"
+    tools:context="com.runing.myflowlayout.MainActivity">
+
+    <TextView
+        style="@style/MyTagTheme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="苹果" />
+
+    <TextView
+        style="@style/MyTagTheme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="香蕉" />
+
+    <TextView
+        style="@style/MyTagTheme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="梨" />
+
+    <TextView
+        style="@style/MyTagTheme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="哈密瓜" />
+
+    <TextView
+        style="@style/MyTagTheme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="榴莲" />
+
+    <TextView
+        style="@style/MyTagTheme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="椰子" />
+
+    <TextView
+        style="@style/MyTagTheme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="桃子" />
+
+    <TextView
+        style="@style/MyTagTheme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="萝莉控" />
+
+    <TextView
+        style="@style/MyTagTheme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="小清新" />
+
+    <TextView
+        style="@style/MyTagTheme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="技术宅" />
+
+    <TextView
+        style="@style/MyTagTheme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="完美主义" />
+
+    <TextView
+        style="@style/MyTagTheme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="天秤座" />
+
+    <TextView
+        style="@style/MyTagTheme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="强迫症" />
+
+</com.runing.view.flowlayout.FlowLayout>
